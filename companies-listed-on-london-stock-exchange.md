@@ -21,3 +21,22 @@
 | Vodafone Group plc               | [vodafone.com](https://vodafone.com)      | 17 billion                  | -0.2 billion (loss)     | Gurgaon, Haryana            |
 | Associated British Foods plc     | [abf.co.uk](https://abf.co.uk)            | 15 billion                  | -0.1 billion (loss)     | Bengaluru, Karnataka        |
 | Melrose Industries plc           | [melroseplc.net](https://melroseplc.net)  | 14 billion                  | -0.3 billion (loss)     | Bengaluru, Karnataka        |
+| Essentra PLC                                      | [essentra.com](https://essentra.com)              | 1.2 billion                 | 100 million                | Mumbai, Maharashtra         |
+| FDM Group (Holdings) PLC                          | [fdmgroup.com](https://fdmgroup.com)              | 1 billion                    | 50 million                 | Bengaluru, Karnataka        |
+| Advanced Medical Solutions Group PLC              | [advancedmedicalsolutions.com](https://advancedmedicalsolutions.com) | 800 million | 30 million                 | Mumbai, Maharashtra         |
+| Fuller Smith & Turner PLC                         | [fullers.co.uk](https://fullers.co.uk)            | 600 million                  | 25 million                 | London (UK)                 |
+| Diversified Energy Co PLC                         | [diversifiedenergy.com](https://diversifiedenergy.com) | 500 million           | 20 million                 | Mumbai, Maharashtra         |
+| Warpaint London PLC                               | [warpaintlondon.com](https://warpaintlondon.com)  | 400 million                  | 15 million                 | Mumbai, Maharashtra         |
+| Tristel PLC                                       | [tristel.com](https://tristel.com)                | 350 million                  | 10 million                 | Bengaluru, Karnataka        |
+| Hargreaves Services PLC                           | [hargreavesservices.com](https://hargreavesservices.com) | 300 million            | 8 million                  | Mumbai, Maharashtra         |
+| Gateley (Holdings) PLC                            | [gateleyplc.com](https://gateleyplc.com)          | 250 million                  | 5 million                  | Gurgaon, Haryana            |
+| AdvancedAdvT Ltd                                  | [advancedadvantage.com](https://advancedadvantage.com) | 200 million           | 3 million                  | Bengaluru, Karnataka        |
+| Beeks Financial Cloud Group PLC                   | [beeksfinancialcloud.com](https://beeksfinancialcloud.com) | 180 million         | 2 million                  | Mumbai, Maharashtra         |
+| IQE PLC                                           | [iqeplc.com](https://iqeplc.com)                  | 150 million                  | 1.5 million                | Bengaluru, Karnataka        |
+| Ecora Resources PLC                               | [ecora-resources.com](https://ecora-resources.com) | 140 million            | 1 million                  | Mumbai, Maharashtra         |
+| TT Electronics PLC                                | [ttelectronics.com](https://ttelectronics.com)    | 130 million                  | -0.5 million (loss)        | Bengaluru, Karnataka        |
+| Public Policy Holding Co Inc                      | [publicpolicyholdingco.com](https://publicpolicyholdingco.com) | 120 million       | -0.3 million (loss)        | Gurgaon, Haryana            |
+| Globaltrans Investment PLC                        | [globaltrans.net](https://globaltrans.net)        | -0.2 billion (loss)          | -5 million (loss)          | Mumbai, Maharashtra         |
+| Celtic PLC                                        | [celticfc.net](https://celticfc.net)              | -0.1 billion (loss)          | -2 million (loss)          | Bengaluru, Karnataka        |
+| Peel Hunt Ltd                                     | [peelhunt.com](https://peelhunt.com)              | -0.1 billion (loss)          | -1.5 million (loss)        | Mumbai, Maharashtra         |
+| Marston's PLC                                     | [marstons.co.uk](https://marstons.co.uk)          | -0.3 billion (loss)          | -4 million (loss)          | Mumbai, Maharashtra         |
