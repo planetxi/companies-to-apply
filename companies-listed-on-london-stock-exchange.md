@@ -94,7 +94,24 @@
 | Treatt                          | [treatt.com](https://treatt.com)        | 294 million                | 3 million                | Bengaluru, Karnataka       |
 | Marlowe                         | [marlowe.com](https://marloweplc.com)  | -0.5 billion (loss)       | -4 million (loss)        | Mumbai, Maharashtra        |
 | Griffin Mining                  | [griffinmining.com](https://griffinmining.com) | -0.2 billion (loss)  | -5 million (loss)        | Bengaluru, Karnataka       |
-
+| Speedy Hire                     | [speedyhire.co.uk](https://speedyhire.co.uk) | 164 million                | 10 million               | Mumbai, Maharashtra        |
+| MS International                 | [ms-international.com](https://ms-international.com) | 163 million          | 5 million                | Gurgaon, Haryana           |
+| Tracsis                         | [tracsis.com](https://tracsis.com)         | 163 million                | 4 million                | Leeds (UK)                 |
+| IQE                             | [iqeplc.com](https://iqeplc.com)           | 163 million                | 3 million                | Cardiff (UK)               |
+| Ecora Resources                 | [ecora-resources.com](https://ecora-resources.com) | 161 million        | 2 million                | London (UK)                |
+| TT Electronics                  | [ttelectronics.com](https://ttelectronics.com) | 161 million            | 1 million                | Manchester (UK)            |
+| Public Policy Holding Co        | [publicpolicyholdingco.com](https://publicpolicyholdingco.com) | 158 million     | 1.5 million              | London (UK)                |
+| Globaltrans Investment          | [globaltrans.net](https://globaltrans.net)   | 156 million                | 2 million                | Moscow (Russia)            |
+| Celtic                          | [celticfc.net](https://celticfc.net)        | 156 million                | 1.5 million              | Glasgow (UK)               |
+| Alumasc Group                   | [alumasc.co.uk](https://alumasc.co.uk)      | 155 million                | 1 million                | Kettering (UK)             |
+| STV Group                       | [stv.tv](https://stv.tv)                    | 155 million                | 0.5 million              | Glasgow (UK)               |
+| Avation                         | [avation.net](https://avation.net)          | 154 million                | 0.3 million              | Singapore                  |
+| Headlam Group                   | [headlam.co.uk](https://headlam.co.uk)      | 153 million                | 0.2 million              | Walsall (UK)               |
+| Kooth                           | [kooth.com](https://kooth.com)              | 152 million                | -0.1 million (loss)      | London (UK)                |
+| Gaming Realms                   | [gamingrealms.com](https://gamingrealms.com) | 151 million              | -0.2 million (loss)      | London (UK)                |
+| Thor Explorations               | [thorexplorations.com](https://thorexplorations.com) | 150 million       | -0.3 million (loss)      | Lagos (Nigeria)            |
+| Renold                          | [renold.com](https://renold.com)            | -0.4 billion (loss)       | -5 million (loss)        | Manchester (UK)            |
+| DP Poland                       | [dppoland.com](https://dppoland.com)        | -0.5 billion (loss)       | -3.5 million (loss)      | Warsaw (Poland)            |
 
 
 
