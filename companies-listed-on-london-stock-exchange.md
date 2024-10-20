@@ -58,7 +58,24 @@
 | Marlowe PLC                                       | [marloweplc.com](https://marloweplc.com)          | 292 million                  | -0.5 million (loss)        | Mumbai, Maharashtra         |
 | Griffin Mining Ltd                                | [griffinmining.com](https://griffinmining.com)    | 289 million                  | -1.0 million (loss)        | Bengaluru, Karnataka        |
 | Tristel PLC                                       | [tristel.com](https://tristel.com)                | -0.2 billion (loss)          | -2.5 million (loss)        | Mumbai, Maharashtra         |
-
+| Pantheon Resources PLC                            | [pantheonresources.com](https://pantheonresources.com) | 186 million              | 10 million                 | Mumbai, Maharashtra         |
+| City of London Investment Group PLC               | [cityoflondoninvestmentgroup.com](https://cityoflondoninvestmentgroup.com) | 180 million          | 6 million                  | London (UK)                 |
+| Fisher (James) & Sons PLC                         | [jamesfisher.com](https://jamesfisher.com)        | 180 million                  | 5 million                  | London (UK)                 |
+| Time Out Group PLC                                | [timeout.com](https://timeout.com)                | 180 million                  | 2 million                  | London (UK)                 |
+| Tufton Oceanic Assets Ltd                         | [tuftonoceanic.com](https://tuftonoceanic.com)    | 179 million                  | 1 million                  | Mumbai, Maharashtra         |
+| Eurocell PLC                                      | [eurocell.co.uk](https://eurocell.co.uk)          | 179 million                  | 10 million                 | Birmingham, UK              |
+| Amicorp FS (UK) PLC                               | [amicorp.com](https://amicorp.com)                | 179 million                  | 8 million                  | Mumbai, Maharashtra         |
+| Keystone Law Group PLC                            | [keystonelaw.co.uk](https://keystonelaw.co.uk)    | 175 million                  | 4 million                  | London (UK)                 |
+| Macfarlane Group PLC                              | [macfarlanegroup.com](https://macfarlanegroup.com) | 175 million              | 3 million                  | Mumbai, Maharashtra         |
+| Ashtead Technology Holdings PLC                   | [ashtead-technology.com](https://ashtead-technology.com) | 475 million         | 20 million                 | Aberdeen, UK                |
+| Crest Nicholson Holdings PLC                      | [crestnicholson.com](https://crestnicholson.com)  | 472 million                  | 15 million                 | London (UK)                 |
+| London Security PLC                               | [londonsecurity.co.uk](https://londonsecurity.co.uk) | 465 million           | 12 million                 | London (UK)                 |
+| Picton Property Income Ltd                        | [picton.co.uk](https://picton.co.uk)              | 459 million                  | 10 million                 | London (UK)                 |
+| Mobico Group PLC                                  | [mobico.group](https://mobico.group)              | 458 million                  | 5 million                  | London (UK)                 |
+| Metro Bank Holdings PLC                           | [metrobankonline.co.uk](https://metrobankonline.co.uk) | 456 million          | -1.0 million (loss)        | London (UK)                 |
+| MHP SE                                            | [mhplc.com](https://mhplc.com)                    | 447 million                  | -0.5 million (loss)        | Mumbai, Maharashtra         |
+| Jupiter Fund Management PLC                       | [jupiteram.com](https://jupiteram.com)            | 444 million                  | -0.2 million (loss)        | London (UK)                 |
+| MHP SE                                            | [mhplc.com](https://mhplc.com)                    | -0.1 billion (loss)          | -1.5 million (loss)        | Mumbai, Maharashtra         |
 
 
 
