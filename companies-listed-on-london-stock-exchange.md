@@ -40,3 +40,36 @@
 | Celtic PLC                                        | [celticfc.net](https://celticfc.net)              | -0.1 billion (loss)          | -2 million (loss)          | Bengaluru, Karnataka        |
 | Peel Hunt Ltd                                     | [peelhunt.com](https://peelhunt.com)              | -0.1 billion (loss)          | -1.5 million (loss)        | Mumbai, Maharashtra         |
 | Marston's PLC                                     | [marstons.co.uk](https://marstons.co.uk)          | -0.3 billion (loss)          | -4 million (loss)          | Mumbai, Maharashtra         |
+| Essentra PLC                                      | [essentra.com](https://essentra.com)              | 1.2 billion                 | 100 million                | Mumbai, Maharashtra         |
+| Diversified Energy Co PLC                         | [diversifiedenergy.com](https://diversifiedenergy.com) | 1 billion              | 50 million                 | Mumbai, Maharashtra         |
+| Fuller Smith & Turner PLC                         | [fullers.co.uk](https://fullers.co.uk)            | 600 million                  | 25 million                 | London (UK)                 |
+| Advanced Medical Solutions Group PLC              | [advancedmedicalsolutions.com](https://advancedmedicalsolutions.com) | 437 million         | 30 million                 | Mumbai, Maharashtra         |
+| FDM Group (Holdings) PLC                          | [fdmgroup.com](https://fdmgroup.com)              | 426 million                  | 50 million                 | Bengaluru, Karnataka        |
+| Funding Circle Holdings PLC                       | [fundingcircle.com](https://fundingcircle.com)    | 424 million                  | 10 million                 | Gurgaon, Haryana            |
+| Mortgage Advice Bureau (Holdings) PLC             | [mortgageadvicebureau.com](https://mortgageadvicebureau.com) | 424 million       | 5 million                  | Mumbai, Maharashtra         |
+| Warpaint London PLC                               | [warpaintlondon.com](https://warpaintlondon.com)  | 421 million                  | 15 million                 | Mumbai, Maharashtra         |
+| Porvair PLC                                       | [porvair.com](https://porvair.com)                | 305 million                  | 12 million                 | Bengaluru, Karnataka        |
+| Henry Boot PLC                                    | [henryboot.co.uk](https://henryboot.co.uk)        | 304 million                  | 8 million                  | London (UK)                 |
+| Benchmark Holdings PLC                            | [benchmarkholdings.com](https://benchmarkholdings.com) | 302 million           | 6 million                  | Mumbai, Maharashtra         |
+| Synthomer PLC                                     | [synthomer.com](https://synthomer.com)            | 301 million                  | 5 million                  | Bengaluru, Karnataka        |
+| XP Power Ltd                                      | [xppower.com](https://xppower.com)                | 301 million                  | 4 million                  | Mumbai, Maharashtra         |
+| Reach PLC                                         | [reachplc.com](https://reachplc.com)              | 299 million                  | 2 million                  | Gurgaon, Haryana            |
+| Treatt PLC                                        | [treatt.com](https://treatt.com)                  | 294 million                  | 3 million                  | Bengaluru, Karnataka        |
+| Marlowe PLC                                       | [marloweplc.com](https://marloweplc.com)          | 292 million                  | -0.5 million (loss)        | Mumbai, Maharashtra         |
+| Griffin Mining Ltd                                | [griffinmining.com](https://griffinmining.com)    | 289 million                  | -1.0 million (loss)        | Bengaluru, Karnataka        |
+| Tristel PLC                                       | [tristel.com](https://tristel.com)                | -0.2 billion (loss)          | -2.5 million (loss)        | Mumbai, Maharashtra         |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
