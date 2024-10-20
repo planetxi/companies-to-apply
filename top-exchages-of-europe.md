@@ -1,4 +1,4 @@
-## top exchanges of europe
+## Top exchanges of Europe
 
 1. Euronext  
 	Market Capitalization: Approximately $7.2 trillion  
