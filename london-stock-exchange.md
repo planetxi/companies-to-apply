@@ -130,7 +130,7 @@
 | Capital Gearing Trust           | [capitalgearingtrust.com](https://capitalgearingtrust.com) | 94 million | -0.3 million (loss)      | London (UK)               |
 | Capricorn Energy                | [capricornenergy.com](https://capricornenergy.com) | 93 million        | -0.5 million (loss)      | Edinburgh (UK)            |
 | Ceres Media                    | [ceresmedia.co.uk](https://ceresmedia.co.uk) | 92 million               | -0.2 million (loss)      | London (UK)               |
-| Ceres Media                    | [ceresmedia.co.uk](https://ceresmedia.co.uk) | 92 million               | -0.2 million (loss)      | London (UK)               |
+|
 
 
 
