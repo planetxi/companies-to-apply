@@ -1,8 +1,8 @@
 # Top Public Companies on London Stock Exchange
 
-| Company Name                    | Website URL                              | Market Capitalization (GBP) | Profit (GBP)            | Office Location in India   |
-|---------------------------------|------------------------------------------|-----------------------------|-------------------------|----------------------------|
-| Shell                           | [shell.com](https://shell.com)            | 168 billion                | 23 billion              | Mumbai, Maharashtra         |
+| Company Name                    | Website URL                               | Market Capitalization (GBP) | Profit (GBP)       | Office Location in India   |
+|---------------------------------|-------------------------------------------|-----------------------------|--------------------|----------------------------|
+| Shell                           | [shell.com](https://shell.com)            | 168 billion                 | 23 billion              | Mumbai, Maharashtra         |
 | AstraZeneca                     | [astrazeneca.com](https://astrazeneca.com)| 120 billion                | 7.3 billion             | Bengaluru, Karnataka        |
 | HSBC Holdings                   | [hsbc.com](https://hsbc.com)              | 100 billion                | 5.4 billion             | Mumbai, Maharashtra         |
 | BP                              | [bp.com](https://bp.com)                  | 90 billion                 | 6.2 billion             | Mumbai, Maharashtra         |
@@ -21,8 +21,8 @@
 | Vodafone Group                  | [vodafone.com](https://vodafone.com)      | 17 billion                 | -0.2 billion (loss)     | Gurgaon, Haryana            |
 | Associated British Foods        | [abf.co.uk](https://abf.co.uk)            | 15 billion                 | -0.1 billion (loss)     | Bengaluru, Karnataka        |
 | Melrose Industries              | [melroseplc.net](https://melroseplc.net)  | 14 billion                 | -0.3 billion (loss)     | Bengaluru, Karnataka        |
-| Essentra                        | [essentra.com](https://essentra.com)              | 1.2 billion                 | 100 million                | Mumbai, Maharashtra         |
-| FDM Group (Holdings)            | [fdmgroup.com](https://fdmgroup.com)              | 1 billion                    | 50 million                 | Bengaluru, Karnataka        |
+| Essentra                        | [essentra.com](https://essentra.com)              | 1.2 billion        | 100 million    | Mumbai, Maharashtra         |
+| FDM Group (Holdings)            | [fdmgroup.com](https://fdmgroup.com)              | 1 billion          | 50 million                 | Bengaluru, Karnataka        |
 | Advanced Medical Solutions Group| [advancedmedicalsolutions.com](https://advancedmedicalsolutions.com) | 800 million | 30 million                 | Mumbai, Maharashtra         
 | Fuller Smith & Turner           | [fullers.co.uk](https://fullers.co.uk)            | 600 million                  | 25 million                 | London (UK)                 |
 | Diversified Energy Co           | [diversifiedenergy.com](https://diversifiedenergy.com) | 500 million           | 20 million                 | Mumbai, Maharashtra         |
@@ -58,15 +58,15 @@
 | Marlowe                         | [marloweplc.com](https://marloweplc.com)          | 292 million                  | -0.5 million (loss)        | Mumbai, Maharashtra         |
 | Griffin Mining Ltd              | [griffinmining.com](https://griffinmining.com)    | 289 million                  | -1.0 million (loss)        | Bengaluru, Karnataka        |
 | Tristel                         | [tristel.com](https://tristel.com)                | -0.2 billion (loss)          | -2.5 million (loss)        | Mumbai, Maharashtra         |
-| Pantheon Resources                         | [pantheonresources.com](https://pantheonresources.com) | 186 million              | 10 million                 | Mumbai, Maharashtra         |
-| City of London Investment Group            | [cityoflondoninvestmentgroup.com](https://cityoflondoninvestmentgroup.com) | 180 million          | 6 million                  | London (UK)                 |
-| Fisher (James) & Sons                 | [jamesfisher.com](https://jamesfisher.com)        | 180 million                  | 5 million                  | London (UK)                 |
-| Time Out Group                              | [timeout.com](https://timeout.com)                | 180 million                  | 2 million                  | London (UK)                 |
-| Tufton Oceanic Assets Ltd                   | [tuftonoceanic.com](https://tuftonoceanic.com)    | 179 million                  | 1 million                  | Mumbai, Maharashtra         |
-| Eurocell                                    | [eurocell.co.uk](https://eurocell.co.uk)          | 179 million                  | 10 million                 | Birmingham, UK              |
-| Amicorp FS (UK)                             | [amicorp.com](https://amicorp.com)                | 179 million                  | 8 million                  | Mumbai, Maharashtra         |
-| Keystone Law Group                          | [keystonelaw.co.uk](https://keystonelaw.co.uk)    | 175 million                  | 4 million                  | London (UK)                 |
-| Macfarlane Group                            | [macfarlanegroup.com](https://macfarlanegroup.com) | 175 million              | 3 million                  | Mumbai, Maharashtra         |
+| Pantheon Resources              | [pantheonresources.com](https://pantheonresources.com) | 186 million              | 10 million                 | Mumbai, Maharashtra         |
+| City of London Investment Group | [cityoflondoninvestmentgroup.com](https://cityoflondoninvestmentgroup.com) | 180 million          | 6 million                  | London (UK)                 |
+| Fisher (James) & Sons           | [jamesfisher.com](https://jamesfisher.com)        | 180 million                  | 5 million                  | London (UK)                 |
+| Time Out Group                  | [timeout.com](https://timeout.com)                | 180 million                  | 2 million                  | London (UK)                 |
+| Tufton Oceanic Assets Ltd       | [tuftonoceanic.com](https://tuftonoceanic.com)    | 179 million                  | 1 million                  | Mumbai, Maharashtra         |
+| Eurocell                        | [eurocell.co.uk](https://eurocell.co.uk)          | 179 million                  | 10 million                 | Birmingham, UK              |
+| Amicorp FS (UK)                 | [amicorp.com](https://amicorp.com)                | 179 million                  | 8 million                  | Mumbai, Maharashtra         |
+| Keystone Law Group              | [keystonelaw.co.uk](https://keystonelaw.co.uk)    | 175 million                  | 4 million                  | London (UK)                 |
+| Macfarlane Group                | [macfarlanegroup.com](https://macfarlanegroup.com) | 175 million              | 3 million                  | Mumbai, Maharashtra         |
 | Ashtead Technology Holdings                 | [ashtead-technology.com](https://ashtead-technology.com) | 475 million         | 20 million                 | Aberdeen, UK                |
 | Crest Nicholson Holdings                    | [crestnicholson.com](https://crestnicholson.com)  | 472 million                  | 15 million                 | London (UK)                 |
 | London Security                             | [londonsecurity.co.uk](https://londonsecurity.co.uk) | 465 million           | 12 million                 | London (UK)                 |
@@ -74,7 +74,7 @@
 | Mobico Group                                 | [mobico.group](https://mobico.group)              | 458 million                  | 5 million                  | London (UK)                 |
 | Metro Bank Holdings                   | [metrobankonline.co.uk](https://metrobankonline.co.uk) | 456 million          | -1.0 million (loss)        | London (UK)                 |
 | MHP SE                                            | [mhplc.com](https://mhplc.com)                    | 447 million                  | -0.5 million (loss)        | Mumbai, Maharashtra         |
-| Jupiter Fund Management                     | [jupiteram.com](https://jupiteram.com)            | 444 million                  | -0.2 million (loss)        | London (UK)                 |
+| Jupiter Fund Management          | [jupiteram.com](https://jupiteram.com)            | 444 million                  | -0.2 million (loss)        | London (UK)                 |
 | MHP SE                                            | [mhplc.com](https://mhplc.com)                    | -0.1 billion (loss)          | -1.5 million (loss)        | Mumbai, Maharashtra         |
 | Tristel                          | [tristel.com](https://tristel.com)      | 173 million                | 10 million               | Mumbai, Maharashtra        |
 | Hargreaves Services             | [hargreavesservices.com](https://hargreavesservices.com) | 173 million      | 8 million                | Mumbai, Maharashtra        |
