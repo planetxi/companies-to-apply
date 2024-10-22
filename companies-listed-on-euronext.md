@@ -39,7 +39,7 @@
 | Worldline                   | [worldline.com](https://worldline.com) | -1 billion (loss)     | -1 million (loss)       | Bengaluru, Karnataka        |
 | Amundi                      | [amundi.com](https://amundi.com)    | -0.5 billion (loss)         | -0.5 million (loss)     | Mumbai, Maharashtra         |
 | Alstom                      | [alstom.com](https://alstom.com)    | -0.3 billion (loss)         | -0.3 million (loss)     | Bengaluru, Karnataka        |
-| KBC Group           | [kbc.com](https://kbc.com)          | -4 million                  | -4 million              | Mumbai, Maharashtra         |
+| KBC Group                   | [kbc.com](https://kbc.com)          | -4 million                  | -4 million              | Mumbai, Maharashtra         |
 | Orange              | [orange.com](https://orange.com)    | -1 million                  | -1 million              | Gurgaon, Haryana            |
 | ArcelorMittal       | [arcelormittal.com](https://arcelormittal.com) | 22 billion            | 5 billion               | Mumbai, Maharashtra         |
 | Bouygues            | [bouygues.com](https://bouygues.com)| 10 billion                  | 0.8 billion             | Bengaluru, Karnataka        |
