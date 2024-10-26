@@ -94,7 +94,7 @@
 | Marlowe                         | [marlowe.com](https://marloweplc.com)  | -0.5 billion (loss)       | -4 million (loss)        | Mumbai, Maharashtra        |
 | Griffin Mining                  | [griffinmining.com](https://griffinmining.com) | -0.2 billion (loss)  | -5 million (loss)        | Bengaluru, Karnataka       |
 | Speedy Hire                     | [speedyhire.co.uk](https://speedyhire.co.uk) | 164 million                | 10 million               | Mumbai, Maharashtra        |
-| MS International                 | [ms-international.com](https://ms-international.com) | 163 million          | 5 million                | Gurgaon, Haryana           |
+| MS International                | [ms-international.com](https://ms-international.com) | 163 million          | 5 million                | Gurgaon, Haryana           |
 | Tracsis                         | [tracsis.com](https://tracsis.com)         | 163 million                | 4 million                | Leeds (UK)                 |
 | IQE                             | [iqeplc.com](https://iqeplc.com)           | 163 million                | 3 million                | Cardiff (UK)               |
 | Ecora Resources                 | [ecora-resources.com](https://ecora-resources.com) | 161 million        | 2 million                | London (UK)                |
@@ -118,8 +118,6 @@
 | Kooth                           | [kooth.com](https://kooth.com)              | 103 million                | 1 million                | London (UK)                |
 | Gaming Realms                   | [gamingrealms.com](https://gamingrealms.com) | 103 million              | -0.5 million (loss)      | London (UK)                |
 | Thor Explorations               | [thorexplorations.com](https://thorexplorations.com) | 102 million       | -1.0 million (loss)      | Lagos (Nigeria)            |
-| Renold                          | [renold.com](https://renold.com)            | 101 million                | -0.2 million (loss)      | Manchester (UK)            |
-| DP Poland                       | [dppoland.com](https://dppoland.com)        | 100 million                | -0.3 million (loss)      | Warsaw (Poland)            |
 | Caffyns                         | [caffyns.co.uk](https://caffyns.co.uk)      | 99 million                 | -0.1 million (loss)      | East Sussex (UK)          |
 | Cairn Homes                     | [cairnhomes.com](https://cairnhomes.com)    | 98 million                 | -0.2 million (loss)      | Dublin (Ireland)          |
 | Cake Box Holdings               | [cakebox.co.uk](https://cakebox.co.uk)      | 97 million                 | -0.1 million (loss)      | London (UK)               |
