@@ -80,28 +80,28 @@
 | 76   | Alteryx, Inc.                    | [alteryx.com](https://www.alteryx.com) | AYX    | $0.9B      |
 | 77   | BigCommerce Holdings, Inc.       | [bigcommerce.com](https://www.bigcommerce.com) | BIGC | $0.8B      |
 | 78   | Domo, Inc.                       | [domo.com](https://www.domo.com)      | DOMO   | $0.6B      |
-| 79   | New Relic, Inc.                  | [newrelic.com](https://www.newrelic.com) | NEWR | $0.6B      |
-| 80   | Tenable Holdings, Inc.           | [tenable.com](https://www.tenable.com) | TENB   | $0.5B      |
-| 81   | Splunk Inc.                      | [splunk.com](https://www.splunk.com)  | SPLK   | $0.5B      |
-| 82   | Verint Systems Inc.              | [verint.com](https://www.verint.com)  | VRNT   | $0.4B      |
-| 83   | Momentus Inc.                    | [momentus.space](https://www.momentus.space) | MNTS | $0.3B      |
-| 84   | AppHarvest, Inc.                 | [appharvest.com](https://www.appharvest.com) | APPH | $0.2B      |
-| 85   | AvePoint, Inc.                   | [avepoint.com](https://www.avepoint.com) | AVPT | $0.2B      |
-| 86   | BigBear.ai Holdings, Inc.        | [bigbear.ai](https://www.bigbear.ai)  | BBAI   | $0.1B      |
-| 87   | Skillz Inc.                      | [skillz.com](https://www.skillz.com)  | SKLZ   | $0.1B      |
-| 88   | RealReal, Inc.                   | [therealreal.com](https://www.therealreal.com) | REAL | $0.1B      |
-| 89   | CarGurus, Inc.                   | [cargurus.com](https://www.cargurus.com) | CARG  | $0.1B      |
-| 90   | Porch Group, Inc.                | [porch.com](https://www.porch.com)    | PRCH   | $0.1B      |
-| 91   | Rover Group, Inc.                | [rover.com](https://www.rover.com)    | ROVR   | $0.1B      |
-| 92   | Joby Aviation, Inc.              | [jobyaviation.com](https://www.jobyaviation.com) | JOBY | $0.09B    |
-| 93   | Blade Air Mobility, Inc.         | [blade.com](https://www.blade.com)    | BLDE   | $0.08B     |
-| 94   | Astra Space, Inc.                | [astra.com](https://www.astra.com)    | ASTR   | $0.08B     |
+| 79   | New Relic                 | [newrelic.com](https://www.newrelic.com) | NEWR | $0.6B      |
+| 80   | Tenable Holdings           | [tenable.com](https://www.tenable.com) | TENB   | $0.5B      |
+| 81   | Splunk                   | [splunk.com](https://www.splunk.com)  | SPLK   | $0.5B      |
+| 82   | Verint Systems              | [verint.com](https://www.verint.com)  | VRNT   | $0.4B      |
+| 83   | Momentus                    | [momentus.space](https://www.momentus.space) | MNTS | $0.3B      |
+| 84   | AppHarvest                 | [appharvest.com](https://www.appharvest.com) | APPH | $0.2B      |
+| 85   | AvePoint              | [avepoint.com](https://www.avepoint.com) | AVPT | $0.2B      |
+| 86   | BigBear.ai Holdings        | [bigbear.ai](https://www.bigbear.ai)  | BBAI   | $0.1B      |
+| 87   | Skillz                      | [skillz.com](https://www.skillz.com)  | SKLZ   | $0.1B      |
+| 88   | RealReal                   | [therealreal.com](https://www.therealreal.com) | REAL | $0.1B      |
+| 89   | CarGurus                   | [cargurus.com](https://www.cargurus.com) | CARG  | $0.1B      |
+| 90   | Porch Group                | [porch.com](https://www.porch.com)    | PRCH   | $0.1B      |
+| 91   | Rover Group                | [rover.com](https://www.rover.com)    | ROVR   | $0.1B      |
+| 92   | Joby Aviation              | [jobyaviation.com](https://www.jobyaviation.com) | JOBY | $0.09B    |
+| 93   | Blade Air Mobility         | [blade.com](https://www.blade.com)    | BLDE   | $0.08B     |
+| 94   | Astra Space               | [astra.com](https://www.astra.com)    | ASTR   | $0.08B     |
 | 95   | Nikola Corporation               | [nikolamotor.com](https://www.nikolamotor.com) | NKLA | $0.07B    |
-| 96   | Canoo Inc.                       | [canoo.com](https://www.canoo.com)    | GOEV   | $0.06B     |
-| 97   | Bird Global, Inc.                | [bird.co](https://www.bird.co)        | BRDS   | $0.05B     |
-| 98   | Nextdoor Holdings, Inc.          | [nextdoor.com](https://www.nextdoor.com) | KIND | $0.04B     |
-| 99   | Bright Health Group, Inc.        | [brighthealthgroup.com](https://www.brighthealthgroup.com) | BHG | $0.04B |
-| 100  | Faraday Future Intelligent Electric Inc. | [faradayfuture.com](https://www.faradayfuture.com) | FFIE | $0.03B |
+| 96   | Canoo                      | [canoo.com](https://www.canoo.com)    | GOEV   | $0.06B     |
+| 97   | Bird Global                | [bird.co](https://www.bird.co)        | BRDS   | $0.05B     |
+| 98   | Nextdoor Holdings          | [nextdoor.com](https://www.nextdoor.com) | KIND | $0.04B     |
+| 99   | Bright Health Group        | [brighthealthgroup.com](https://www.brighthealthgroup.com) | BHG | $0.04B |
+| 100  | Faraday Future Intelligent Electric | [faradayfuture.com](https://www.faradayfuture.com) | FFIE | $0.03B |
 
 
 
