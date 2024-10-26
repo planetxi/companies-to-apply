@@ -1,14 +1,14 @@
 # Top Public Companies on London Stock Exchange
 
-| Company Name                    | Website URL                               | Market Capitalization (GBP) | Profit (GBP)       | Office Location in India   |
-|---------------------------------|-------------------------------------------|-----------------------------|--------------------|----------------------------|
-| Shell                           | [shell.com](https://shell.com)            | 168 billion                 | 23 billion              | Mumbai, Maharashtra         |
-| AstraZeneca                     | [astrazeneca.com](https://astrazeneca.com)| 120 billion                | 7.3 billion             | Bengaluru, Karnataka        |
-| HSBC Holdings                   | [hsbc.com](https://hsbc.com)              | 100 billion                | 5.4 billion             | Mumbai, Maharashtra         |
-| BP                              | [bp.com](https://bp.com)                  | 90 billion                 | 6.2 billion             | Mumbai, Maharashtra         |
-| Unilever                        | [unilever.com](https://unilever.com)      | 70 billion                 | 6.1 billion             | Mumbai, Maharashtra         |
-| GlaxoSmithKline                 | [gsk.com](https://gsk.com)                | 60 billion                 | 8 billion               | Bengaluru, Karnataka        |
-| Diageo                          | [diageo.com](https://diageo.com)          | 50 billion                 | 4.5 billion             | Mumbai, Maharashtra         |
+| Company Name  | Website URL  | Market Cap (GBP) | Profit (GBP)       | Office Location in India   |
+|---------------|--------------|------------------|--------------------|----------------------------|
+| Shell         | [shell.com](https://shell.com)  | 168 billion | 23 billion | Mumbai, Maharashtra  |
+| AstraZeneca   | [astrazeneca.com](https://astrazeneca.com)| 120 billion    | 7.3 billion             | Bengaluru, Karnataka        |
+| HSBC Holdings | [hsbc.com](https://hsbc.com)              | 100 billion                | 5.4 billion             | Mumbai, Maharashtra         |
+| BP            | [bp.com](https://bp.com)                  | 90 billion                 | 6.2 billion             | Mumbai, Maharashtra         |
+| Unilever      | [unilever.com](https://unilever.com)      | 70 billion                 | 6.1 billion             | Mumbai, Maharashtra         |
+| GlaxoSmithKline  | [gsk.com](https://gsk.com)                | 60 billion                 | 8 billion               | Bengaluru, Karnataka        |
+| Diageo    | [diageo.com](https://diageo.com)          | 50 billion                 | 4.5 billion             | Mumbai, Maharashtra         |
 | RELX                            | [relx.com](https://relx.com)              | 45 billion                 | 1.5 billion             | Gurgaon, Haryana            |
 | British American Tobacco        | [bat.com](https://bat.com)                | 40 billion                 | 5.0 billion             | Mumbai, Maharashtra         |
 | Rio Tinto                       | [riotinto.com](https://riotinto.com)      | 35 billion                 | 12 billion              | Mumbai, Maharashtra         |
@@ -130,7 +130,6 @@
 | Capital Gearing Trust           | [capitalgearingtrust.com](https://capitalgearingtrust.com) | 94 million | -0.3 million (loss)      | London (UK)               |
 | Capricorn Energy                | [capricornenergy.com](https://capricornenergy.com) | 93 million        | -0.5 million (loss)      | Edinburgh (UK)            |
 | Ceres Media                    | [ceresmedia.co.uk](https://ceresmedia.co.uk) | 92 million               | -0.2 million (loss)      | London (UK)               |
-|
 
 
 
