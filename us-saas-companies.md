@@ -80,7 +80,8 @@
 | 76   | Alteryx, Inc.                    | [alteryx.com](https://www.alteryx.com) | AYX    | $0.9B      |
 | 77   | BigCommerce Holdings, Inc.       | [bigcommerce.com](https://www.bigcommerce.com) | BIGC | $0.8B      |
 | 78   | Domo, Inc.                       | [domo.com](https://www.domo.com)      | DOMO   | $0.6B      |
-| 79   | New Relic                 | [newrelic.com](https://www.newrelic.com) | NEWR | $0.6B      |
+| 79   | New Relic
+                 | [newrelic.com](https://www.newrelic.com) | NEWR | $0.6B      |
 | 80   | Tenable Holdings           | [tenable.com](https://www.tenable.com) | TENB   | $0.5B      |
 | 81   | Splunk                   | [splunk.com](https://www.splunk.com)  | SPLK   | $0.5B      |
 | 82   | Verint Systems              | [verint.com](https://www.verint.com)  | VRNT   | $0.4B      |
