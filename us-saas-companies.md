@@ -2,24 +2,24 @@
 
 | S.No | Company Name                     | Website URL                            | Ticker | Market Cap |
 |------|-----------------------------------|----------------------------------------|--------|------------|
-| 1    | Salesforce, Inc.                 | [salesforce.com](https://www.salesforce.com/) | CRM    | $275.4B    |
-| 2    | Adobe Inc.                       | [adobe.com](https://www.adobe.com)     | ADBE   | $218.1B    |
-| 3    | ServiceNow, Inc.                 | [servicenow.com](https://www.servicenow.com) | NOW    | $193.2B    |
-| 4    | Intuit Inc.                      | [intuit.com](https://www.intuit.com)   | INTU   | $172.9B    |
-| 5    | Shopify Inc.                     | [shopify.com](https://www.shopify.com) | SHOP   | $107.8B    |
-| 6    | Palantir Technologies Inc.       | [palantir.com](https://www.palantir.com) | PLTR   | $97.4B     |
-| 7    | CrowdStrike Holdings, Inc.       | [crowdstrike.com](https://www.crowdstrike.com) | CRWD   | $78.5B     |
-| 8    | Workday, Inc.                    | [workday.com](https://www.workday.com) | WDAY   | $63.8B     |
-| 9    | Autodesk, Inc.                   | [autodesk.com](https://www.autodesk.com) | ADSK   | $60.7B     |
+| 1    | Salesforce                 | [salesforce.com](https://www.salesforce.com/) | CRM    | $275.4B    |
+| 2    | Adobe                      | [adobe.com](https://www.adobe.com)     | ADBE   | $218.1B    |
+| 3    | ServiceNow                | [servicenow.com](https://www.servicenow.com) | NOW    | $193.2B    |
+| 4    | Intuit                      | [intuit.com](https://www.intuit.com)   | INTU   | $172.9B    |
+| 5    | Shopify                     | [shopify.com](https://www.shopify.com) | SHOP   | $107.8B    |
+| 6    | Palantir Technologies       | [palantir.com](https://www.palantir.com) | PLTR   | $97.4B     |
+| 7    | CrowdStrike Holdings      | [crowdstrike.com](https://www.crowdstrike.com) | CRWD   | $78.5B     |
+| 8    | Workday             | [workday.com](https://www.workday.com) | WDAY   | $63.8B     |
+| 9    | Autodesk                   | [autodesk.com](https://www.autodesk.com) | ADSK   | $60.7B     |
 | 10   | Atlassian Corporation            | [atlassian.com](https://www.atlassian.com) | TEAM   | $48.6B     |
-| 11   | Datadog, Inc.                    | [datadoghq.com](https://www.datadoghq.com) | DDOG   | $43.8B     |
-| 12   | Block, Inc.                      | [block.xyz](https://www.block.xyz)     | SQ     | $42.9B     |
-| 13   | Snowflake Inc.                   | [snowflake.com](https://www.snowflake.com) | SNOW   | $41.6B     |
-| 14   | Veeva Systems Inc.               | [veeva.com](https://www.veeva.com)     | VEEV   | $34.2B     |
-| 15   | Cloudflare, Inc.                 | [cloudflare.com](https://www.cloudflare.com) | NET    | $31.9B     |
-| 16   | Zscaler, Inc.                    | [zscaler.com](https://www.zscaler.com) | ZS     | $30.2B     |
-| 17   | HubSpot, Inc.                    | [hubspot.com](https://www.hubspot.com) | HUBS   | $28.7B     |
-| 18   | Samsara Inc.                     | [samsara.com](https://www.samsara.com) | IOT    | $28.1B     |
+| 11   | Datadog                    | [datadoghq.com](https://www.datadoghq.com) | DDOG   | $43.8B     |
+| 12   | Block                      | [block.xyz](https://www.block.xyz)     | SQ     | $42.9B     |
+| 13   | Snowflake                   | [snowflake.com](https://www.snowflake.com) | SNOW   | $41.6B     |
+| 14   | Veeva Systems               | [veeva.com](https://www.veeva.com)     | VEEV   | $34.2B     |
+| 15   | Cloudflare                 | [cloudflare.com](https://www.cloudflare.com) | NET    | $31.9B     |
+| 16   | Zscaler                    | [zscaler.com](https://www.zscaler.com) | ZS     | $30.2B     |
+| 17   | HubSpot                    | [hubspot.com](https://www.hubspot.com) | HUBS   | $28.7B     |
+| 18   | Samsara                     | [samsara.com](https://www.samsara.com) | IOT    | $28.1B     |
 | 19   | Zoom Video Communications, Inc.  | [zoom.us](https://www.zoom.us)         | ZM     | $21.8B     |
 | 20   | MongoDB, Inc.                    | [mongodb.com](https://www.mongodb.com) | MDB    | $21.6B     |
 | 21   | Dynatrace, Inc.                  | [dynatrace.com](https://www.dynatrace.com) | DT     | $16.4B     |
