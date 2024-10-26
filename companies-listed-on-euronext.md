@@ -1,6 +1,6 @@
 # Public Listed Companies of Euronext
 
-| Company Name                | Website URL                        | Market Capitalization (EUR) | Profit (EUR)          | Office Location in India     |
+| Company Name                | Website URL                         | Market Capitalization (EUR) | Profit (EUR)          | Office Location in India     |
 |-----------------------------|-------------------------------------|-----------------------------|-----------------------|------------------------------|
 | L'Oréal                     | [loreal.com](https://loreal.com)    | 220 billion                 | 4.5 billion           | Bengaluru, Karnataka          |
 | TotalEnergies               | [totalenergies.com](https://totalenergies.com) | 150 billion     | 15 billion            | Gurgaon, Haryana              |
@@ -29,11 +29,9 @@
 | Gemalto                     | [gemalto.com](https://gemalto.com)  | 5 billion                   | 0.4 billion             | Bengaluru, Karnataka        |
 | Gecina                      | [gecina.fr](https://gecina.fr)      | 10 billion                  | 1.2 billion             | Mumbai, Maharashtra         |
 | Iliad                       | [iliad.fr](https://iliad.fr)        | 8 billion                   | 0.3 billion             | Gurgaon, Haryana            |
-| Nexans                      | [nexans.com](https://nexans.com)    | 4 billion                   | 0.2 billion             | Bengaluru, Karnataka        |
 | Renault                     | [renault.com](https://renault.com)  | 18 billion                  | 1.5 billion             | Chennai, Tamil Nadu         |
 | Schneider Electric          | [schneider-electric.com](https://schneider-electric.com) | 80 billion | 3.5 billion  | Gurgaon, Haryana            |
 | Suez                        | [suez.com](https://suez.com)        | 12 billion                  | -0.1 billion (loss)     | Mumbai, Maharashtra         |
-| TechnipFMC                  | [technipfmc.com](https://technipfmc.com) | 6 billion               | -0.2 billion (loss)     | Mumbai, Maharashtra         |
 | Thales                      | [thalesgroup.com](https://thalesgroup.com) | 25 billion           | -0.1 billion (loss)     | Bengaluru, Karnataka        |
 | Vallourec                   | [vallourec.com](https://vallourec.com) | -2 billion (loss)     | -2 million (loss)       | Mumbai, Maharashtra         |
 | Worldline                   | [worldline.com](https://worldline.com) | -1 billion (loss)     | -1 million (loss)       | Bengaluru, Karnataka        |
@@ -47,10 +45,8 @@
 | Faurecia                    | [faurecia.com](https://faurecia.com)| 6 billion                   | 0.3 billion             | Chennai, Tamil Nadu         |
 | Eiffage                     | [eiffage.com](https://eiffage.com)  | 7 billion                   | 0.5 billion             | Mumbai, Maharashtra         |
 | Amundi                      | [amundi.com](https://amundi.com)    | 10 billion                  | 0.9 billion             | Mumbai, Maharashtra         |
-| Iliad                       | [iliad.fr](https://iliad.fr)        | 8 billion                   | 0.3 billion             | Gurgaon, Haryana            |
 | Nexans                      | [nexans.com](https://nexans.com)    | 4 billion                   | 0.2 billion             | Bengaluru, Karnataka        |
 | TechnipFMC                  | [technipfmc.com](https://technipfmc.com) | 6 billion               | -0.2 billion (loss)     | Mumbai, Maharashtra         |
-| Worldline                   | [worldline.com](https://worldline.com) | -1 billion (loss)     | -1 million (loss)       | Bengaluru, Karnataka        |
 | Eutelsat                    | [eutelsat.com](https://eutelsat.com)| -3 billion (loss)           | -0.5 million (loss)     | New Delhi                  |
 
 
