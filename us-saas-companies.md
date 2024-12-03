@@ -1,12 +1,12 @@
 # The 80+ Biggest Public SaaS Companies in the U.S.
 
 | S.No | Company Name                     | Website URL                            | Ticker | Market Cap |
-|------|-----------------------------------|----------------------------------------|--------|------------|
-| 1    | Salesforce                 | [salesforce.com](https://www.salesforce.com/) | CRM    | $275.4B    |
-| 2    | Adobe                      | [adobe.com](https://www.adobe.com)     | ADBE   | $218.1B    |
-| 3    | ServiceNow                | [servicenow.com](https://www.servicenow.com) | NOW    | $193.2B    |
-| 4    | Intuit                      | [intuit.com](https://www.intuit.com)   | INTU   | $172.9B    |
-| 5    | Shopify                     | [shopify.com](https://www.shopify.com) | SHOP   | $107.8B    |
+|------|----------------------------------|----------------------------------------|--------|------------|
+| 1    | Salesforce                       | [salesforce.com](https://www.salesforce.com/) | CRM    | $275.4B    |
+| 2    | Adobe                            | [adobe.com](https://www.adobe.com)     | ADBE   | $218.1B    |
+| 3    | ServiceNow                       | [servicenow.com](https://www.servicenow.com) | NOW    | $193.2B    |
+| 4    | Intuit                           | [intuit.com](https://www.intuit.com)   | INTU   | $172.9B    |
+| 5    | Shopify                          | [shopify.com](https://www.shopify.com) | SHOP   | $107.8B    |
 | 6    | Palantir Technologies       | [palantir.com](https://www.palantir.com) | PLTR   | $97.4B     |
 | 7    | CrowdStrike Holdings      | [crowdstrike.com](https://www.crowdstrike.com) | CRWD   | $78.5B     |
 | 8    | Workday             | [workday.com](https://www.workday.com) | WDAY   | $63.8B     |
